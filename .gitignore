@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+*.tsbuildinfo
+lib/types/**/*.js
+lib/types/**/*.map
+.DS_Store
+.env
+.env.*
+!.env.example
